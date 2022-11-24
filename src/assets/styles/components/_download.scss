@@ -1,0 +1,65 @@
+.app__container{
+    background: #f5b70a;
+    border-radius: 1rem;
+}
+
+.app__img{
+    margin-bottom: -10rem;
+}
+
+.app__content h5{
+    color: #0a071a;
+}
+.app__content h2{
+    color: #0a071a;
+    font-weight: 600;
+}
+
+.app__content p{
+    color: #fff;
+}
+
+.btn__apple{
+    background: #0a071a;
+    border: none;
+    color: #fff;
+    padding: .7rem 2.5rem;
+    border-radius: .5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn__android{
+    background: #fff;
+    color: #0a071a;
+    border: none;
+    padding: .7rem 2.5rem;
+    border-radius: .5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.app__btns{
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 4rem;
+}
+
+.app__title{
+    margin-bottom: 4rem;
+}
+.btn__android i {
+    color: #0a071a;
+}
+
+.btn__apple:hover a{
+    color: #fff;
+}
+
+.btn__android:hover a{
+    color: #0a071a;
+}
+

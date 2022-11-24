@@ -1,0 +1,16 @@
+.offers__container{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+.popular__menu__desc{
+    margin-bottom: 5rem;
+}
+
+.offers__block img{
+    display: flex;
+    overflow: hidden;
+    width: 40rem;
+    border-radius: .5rem;
+}

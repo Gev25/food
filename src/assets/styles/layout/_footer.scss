@@ -1,0 +1,40 @@
+.footer{
+    padding-bottom: 0;
+}
+
+.footer__link-title{
+    color: #fff;
+    font-size: 2rem;
+}
+.foot__logo__title{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: .4rem;
+}
+
+.link__item{
+    padding-left: 0;
+    background: transparent;
+    color: #c4c4c4;
+    display: flex;
+    align-items:center;
+    gap: 3rem;
+    font-size: 1.8rem;
+}
+
+.link__item a{
+    color: #c4c4c4;
+}
+
+.footer__bottom{
+    background: #141124;
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.footer__bottom p{
+    font-size: 0.9rem;
+    margin-bottom: 0;
+}
